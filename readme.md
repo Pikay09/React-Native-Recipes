@@ -1,6 +1,6 @@
-# We are going to build a React Native app that helps us track and display food recipies
+# A React Native app that helps us track and display food recipies
 
-## There is a starter codes in this repo -- 
+## Clone and run the codes with expo cli [Expo CLI Docs](https://docs.expo.dev/more/expo-cli/) 
 
 <br>
 
