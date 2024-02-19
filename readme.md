@@ -12,6 +12,4 @@
 
 <br>
 
-<img src="./assets/final/IMG_7027.PNG" height="500"/>
-<img src="./assets/final/IMG_7028.PNG" height="500"/>
-<img src="./assets/final/IMG_7029.PNG" height="500"/>
+<img src="./assets/final/IMG_7027.PNG" height="500"/> <img src="./assets/final/IMG_7028.PNG" height="500"/> <img src="./assets/final/IMG_7029.PNG" height="500"/>
